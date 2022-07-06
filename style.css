@@ -52,6 +52,7 @@ p strong {
 .card {
   background-color: white;
   padding: 16px;
+  border-bottom: 8px solid hsl(0deg, 0%, 40%);
 }
 
 .intro-chunk {
